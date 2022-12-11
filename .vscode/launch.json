@@ -5,7 +5,8 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "pwa-chrome",
+            //"type": "pwa-chrome",
+            "type": "chrome",
             "request": "launch",
             "name": "Open app.component.html",
             "file": "d:\\office_tower\\my-app\\src\\app\\app.component.html"
